@@ -2,3 +2,21 @@
 *.xml
 *.iml
 *.csv
+/test.ipynb
+/1.png
+/Basic Industries.png
+/Capital Goods.png
+/Consumer Durables.png
+/Consumer Non-Durables.png
+/Consumer Services.png
+/Energy.png
+/Finance.png
+/Health Care.png
+/Miscellaneous.png
+/nasdaq_screener.csv
+/Public Utilities.png
+/Technology.png
+/test.csv
+/test.ipynb
+/Transportation.png
+/.ipynb_checkpoints/
